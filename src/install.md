@@ -2,7 +2,7 @@
 
 # <img src="/img/other-icons/debian-icon.svg" height="20" /> Debian / <img src="/img/other-icons/raspberrypi-icon.svg" height="20" /> Pi OS / <img src="/img/other-icons/ubuntu-icon.svg" height="20" /> Ubuntu (ARM32/64)
 
-Installing Pi-Apps is as simple as running this one command in a terminal
+Installing Pi-Apps is as simple as running this one command in a cmd
 ```bash
 wget -qO- https://raw.githubusercontent.com/Botspot/pi-apps/master/install | bash
 ```
